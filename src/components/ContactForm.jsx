@@ -90,7 +90,7 @@ function ContactForm({ contact, onSave, onCancel }) {
           className="h-10 w-full rounded-md border border-[#e7e7df] bg-[#fffefa] px-3 text-[11px] font-normal text-[#30362f] outline-none transition placeholder:text-[#b0b1a9] focus:border-[#9baa91] focus:ring-4 focus:ring-[#46694f]/[0.08]"
           name="phoneNumber"
           onChange={handleChange}
-          placeholder="+33 6 12 34 56 78"
+          placeholder="+225 0749670336"
           type="tel"
           value={fields.phoneNumber}
         />
